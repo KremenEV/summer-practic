@@ -1,0 +1,17 @@
+Czech Republic;Prague,Brno;Holiday home;Educational;880;Daily
+France;Paris;Holiday home;Educational;1850;Daily
+France;Paris;Holiday home;Health;1150;Daily
+France;Paris;Holiday home;Educational;850;Daily
+Germany;Berlin,Munich;Hotel;Commercial;1200;Every month
+Germany;Berlin,Munich;Hotel;Commercial;3200;Every month
+Germany;Berlin,Munich;Hotel;Commercial;1000;Every month
+Greece;Athens,Thessaloniki,Patras;Hotel;Business;1222;every two weeks
+Italy;Rome,Venice,Florence;Hotel;Business;1222;every two weeks
+Italy;Tuscany,Sicily,Milan;Hotel;Commercial;1355;every Sunday
+Norway;Oslo;Hotel;Commercial;2000;Every month
+Norway;Oslo;Hotel;Educational;1450;Daily
+Poland;Warsaw,Poznan,Gdansk;Holiday home;Educational;550;Daily
+Poland;Warsaw,Poznan,Gdansk;Hotel;Commercial;780;Every month
+Romania;Bucharest;Holiday home;Educational;450;Daily
+Romania;Bucharest;Hotel;Commercial;540;Every month
+Spain;Madrid,Barcelona,Malaga;Hotel;Health;2000;every Tuesday
